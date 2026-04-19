@@ -12,7 +12,7 @@ Currently focused on:
 
 ## Featured Project
 
-### 🧭 Wayfinder
+### Wayfinder
 
 An OSINT-driven asset ownership and infrastructure mapping tool.
 
